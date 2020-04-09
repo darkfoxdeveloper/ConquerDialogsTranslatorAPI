@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29827.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConquerDialogsTranslatorAPI", "ConquerDialogsTranslatorAPI\ConquerDialogsTranslatorAPI.csproj", "{33BD555A-7CAB-4C3B-B75F-5E43526D22C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingAPIExample", "UsingAPIExample\UsingAPIExample.csproj", "{744B62CE-3DCE-4112-BE10-3B67B0FD6D52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33BD555A-7CAB-4C3B-B75F-5E43526D22C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33BD555A-7CAB-4C3B-B75F-5E43526D22C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33BD555A-7CAB-4C3B-B75F-5E43526D22C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33BD555A-7CAB-4C3B-B75F-5E43526D22C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{744B62CE-3DCE-4112-BE10-3B67B0FD6D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744B62CE-3DCE-4112-BE10-3B67B0FD6D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744B62CE-3DCE-4112-BE10-3B67B0FD6D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744B62CE-3DCE-4112-BE10-3B67B0FD6D52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {562DB0C0-5EFC-466F-B402-8F2EE331904D}
+	EndGlobalSection
+EndGlobal
